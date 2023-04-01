@@ -14,7 +14,6 @@ import os
 
 from dotenv import load_dotenv
 
-
 load_dotenv()
 
 SECRET_IP = os.getenv('SECRET_IP')
